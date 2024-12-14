@@ -17,3 +17,10 @@
 ![ScatterMap](https://github.com/user-attachments/assets/f4549c49-8934-44e2-aa4e-8cc542528c88)
 
 # Project Three: Iris Flower Classification 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mukhtar-is/Internship_projects/main?labpath=Iris_Flower_CLassification_Project.ipynb)
+
+### Sample result pictures
+![relationship of variables_iris](https://github.com/user-attachments/assets/c6c06248-5bd5-46a7-91db-f62cf2fad1c5)
+![heatmap_confusion_matrix_iris_knn](https://github.com/user-attachments/assets/280ba80b-cfeb-4734-b8ec-cf4160a06907)
+![Distribution of variables_iris](https://github.com/user-attachments/assets/39b3beb3-c47f-40c2-a9b6-7f81059926c1)
+![Accuracy of Different Models_iris](https://github.com/user-attachments/assets/cb73fd85-c8ba-4bb3-92fa-250eb1a302b1)
